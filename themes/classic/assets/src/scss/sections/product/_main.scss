@@ -1,0 +1,45 @@
+#products {
+
+  .products {
+    .thumbnail-container {
+
+      .product-flags,
+      .product-flag .new{
+        font-size: 12px;
+        .new {
+          font-size: 12px;
+        }
+      }
+    }
+  }
+
+
+  .total-products {
+
+    p {
+      font-size: 12px;
+    }
+  }
+
+
+}
+.divide-right {
+  color:black;
+
+  h4 {
+    color:black;
+  }
+ p {
+   color:black;
+ }
+}
+.cart-content {
+  color:black;
+  p {
+    color:black;
+  }
+
+  .cart-products-count {
+    color:black;
+  }
+}

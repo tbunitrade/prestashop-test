@@ -1,0 +1,13 @@
+1537960635
+s:1803:"HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 26 Sep 2018 11:11:44 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1492
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"22316","name":"ps_customersignin","displayName":"Customer \"Sign in\" link","categoryName":"Natif","description":"Make your customers feel at home on your store, invite them to sign in by enabling this link to appear on your front office","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/product.php?id_product=22316?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-RU&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/22316.jpg","fullDescription":"Make your customers feel at home on your store, invite them to sign in by enabling this link to appear on your front office.","additionalDescription":"Use this native module to <strong>connect with your customers<\/strong>: create an easy purchasing environment for your clients to make them feel like going back.","features":"By default, it appears in the header of your homepage but it can be attached to another hook and be displayed elsewhere in your front office.","customer_benefits":"","demo_video":"","version":"2.0.2","last_update":"2018-09-26 05:08:46","compatibility":{"from":"1.7.1.0","to":"1.7.5.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/api-addons.prestashop.com\/1271939-pprod\/.jpg","big":"https:\/\/api-addons.prestashop.com\/1271939-pbig\/.jpg"}}]}";

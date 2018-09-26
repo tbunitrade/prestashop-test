@@ -1,0 +1,13 @@
+1537960575
+s:1388:"HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 26 Sep 2018 11:10:43 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1077
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"15281","name":"statsregistrations","displayName":"Customer accounts","categoryName":"Natif","description":"Adds a registration progress tab to the Stats dashboard","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/ru\/natif\/15281-customer-accounts.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-RU&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/15281.jpg","fullDescription":"Adds a registration progress tab to the Stats dashboard.","additionalDescription":"","features":"","customer_benefits":"","demo_video":"","version":"2.0.0","last_update":"2018-09-26 05:09:00","compatibility":{"from":"1.7.1.0","to":"1.7.5.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/api-addons.prestashop.com\/-pprod\/customer-accounts.jpg","big":"https:\/\/api-addons.prestashop.com\/-pbig\/customer-accounts.jpg"}}]}";

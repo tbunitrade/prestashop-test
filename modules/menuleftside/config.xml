@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>menuleftside</name>
+	<displayName><![CDATA[My menu left side module]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[My menu left side module]]></description>
+	<author><![CDATA[O.Sonich]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

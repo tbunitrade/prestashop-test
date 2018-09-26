@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>How to Use Ecommerce Data to Understand Customer Behavior</title>
+    <link>https://www.prestashop.com/en/blog/ecommerce-data-to-understand-customer-behavior</link>
+    <description>Understanding customer behavior is one of the best ways to create an ecommerce strategy around customer satisfaction.</description>
+     <pubDate>Wed, 05 Sep 2018 17:53:14 +0200</pubDate>
+ <dc:creator>Divvit</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ecommerce-data-to-understand-customer-behavior</guid>
+  </item>
+  <item>
+    <title>Why You Need Local Payment Options When Going Global </title>
+    <link>https://www.prestashop.com/en/blog/why-you-need-local-payment</link>
+    <description>We’ve all been there.
+How many times have you been browsing a site, found the perfect item, and looked down to see it promoted in a currency that’s not yours?</description>
+     <pubDate>Wed, 05 Sep 2018 12:26:33 +0200</pubDate>
+ <dc:creator>g2apay</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/why-you-need-local-payment</guid>
+  </item>
+  <item>
+    <title>Making the most of marketing automation by installing the MailChimp module on your PrestaShop store.</title>
+    <link>https://www.prestashop.com/en/blog/mailchimp-prestashop-module</link>
+    <description>In recent years your customer’s needs have changed, and, as an etailer, one of your main challenges is sending your account holders targeted, qualitative marketing campaigns.</description>
+     <pubDate>Fri, 31 Aug 2018 10:57:56 +0200</pubDate>
+ <dc:creator>Preston&#039;s Friends</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/mailchimp-prestashop-module</guid>
+  </item>
+  <item>
+    <title>How to create a community around your e-commerce store</title>
+    <link>https://www.prestashop.com/en/blog/community-around-an-e-commerce-store</link>
+    <description>Today, online shopping is on the rise.</description>
+     <pubDate>Wed, 29 Aug 2018 12:13:58 +0200</pubDate>
+ <dc:creator>Preston&#039;s Friends</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/community-around-an-e-commerce-store</guid>
+  </item>
+  <item>
+    <title>Protecting eCommerce Stores From Click Fraud</title>
+    <link>https://www.prestashop.com/en/blog/protecting-ecommerce-from-click-fraud</link>
+    <description>There are between 12 to 24 million eCommerce stores in the world today.</description>
+     <pubDate>Wed, 29 Aug 2018 10:57:34 +0200</pubDate>
+ <dc:creator>Preston&#039;s Friends</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/protecting-ecommerce-from-click-fraud</guid>
+  </item>
+  <item>
+    <title>Digital Ad Fraud – What You Need to Know</title>
+    <link>https://www.prestashop.com/en/blog/digital-ad-fraud-what-you-need-to-know</link>
+    <description>Every company that invests in digital advertising has likely been victim to some form of ad fraud, yet, many fail to realize the extent of the problem.</description>
+     <pubDate>Mon, 27 Aug 2018 18:30:20 +0200</pubDate>
+ <dc:creator>JackieLong</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/digital-ad-fraud-what-you-need-to-know</guid>
+  </item>
+  <item>
+    <title>PrestaShop is one of the first to join new Stripe partner program</title>
+    <link>https://www.prestashop.com/en/blog/stripe-partnership</link>
+    <description>Most people today don’t know that only three percent of GDP is online.</description>
+     <pubDate>Wed, 01 Aug 2018 10:21:03 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/stripe-partnership</guid>
+  </item>
+  <item>
+    <title>Global shopping trends and tourism offer new sales opportunities to merchants</title>
+    <link>https://www.prestashop.com/en/blog/global-shopping-trends-and-tourism-offer-new-sales-opportunities-to-merchants</link>
+    <description>The global market is opening up more and more for merchants in Europe, bringing with it enormous opportunities, provided that merchants are keeping up with current deve</description>
+     <pubDate>Tue, 31 Jul 2018 10:06:37 +0200</pubDate>
+ <dc:creator>wirecard_en</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/global-shopping-trends-and-tourism-offer-new-sales-opportunities-to-merchants</guid>
+  </item>
+  <item>
+    <title>How to contribute to the Prestashop Project ?</title>
+    <link>https://www.prestashop.com/en/blog/how-to-contribute-to-prestashop-project</link>
+    <description>As the title of this article indicates, we have prepared a guide that contains all the information you need to contribute to the PrestaShop Project.</description>
+     <pubDate>Mon, 23 Jul 2018 10:21:51 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/how-to-contribute-to-prestashop-project</guid>
+  </item>
+  <item>
+    <title>Meet Cyril and Edouard, Ambassadors of the month | July 2018</title>
+    <link>https://www.prestashop.com/en/blog/ambassadors-cyril-edouard-paris</link>
+    <description>About you
+Three words to best describe you:
+Edouard: “dithyrambique”. @dithyrambique it’s my name on Instagram @dithyrambique and it’s a real state of mind.</description>
+     <pubDate>Fri, 20 Jul 2018 00:00:00 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ambassadors-cyril-edouard-paris</guid>
+  </item>
+  </channel>
+</rss>

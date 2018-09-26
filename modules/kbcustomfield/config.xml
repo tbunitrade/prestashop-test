@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>kbcustomfield</name>
+	<displayName><![CDATA[0000Knowband Custom Fields Free Version]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[0000Add additional fields in Customer Registration and customer account page]]></description>
+	<author><![CDATA[knowband]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

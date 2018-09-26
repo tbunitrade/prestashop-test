@@ -1,0 +1,13 @@
+1537960625
+s:1670:"HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 26 Sep 2018 11:11:34 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1359
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"23866","name":"ps_customeraccountlinks","displayName":"My Account block","categoryName":"Natif","description":"Welcome your customers with their personal information displayed right in your footer","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/product.php?id_product=23866?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-RU&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/23866.jpg","fullDescription":"Welcome your customers with their personal information displayed right in your footer.","additionalDescription":"Use this native module to <strong>connect with your customers<\/strong>: create an easy purchasing environment for your clients to make them feel like going back.","features":"If they are not connected, your visitors will be invited to do so or create an account.","customer_benefits":"","demo_video":"","version":"3.1.0","last_update":"2018-09-26 05:08:45","compatibility":{"from":"1.7.2.0","to":"1.7.5.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/api-addons.prestashop.com\/1271885-pprod\/.jpg","big":"https:\/\/api-addons.prestashop.com\/1271885-pbig\/.jpg"}}]}";

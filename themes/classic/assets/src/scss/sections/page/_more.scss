@@ -1,0 +1,64 @@
+/* more style*/
+
+.noskiHome{
+  line-height: 1.5;
+  font-size: 1rem;
+  text-align: left;
+
+  p {
+    padding: 10px 0px 10px;
+  }
+
+  .homeCategorymenu {
+    padding: 0;
+
+    .menu-item {
+      list-style-type: none;
+    }
+
+  }
+
+  .hGold {
+    color: $goldcolor;
+    font-size: 13px;
+    font-family: 'Tahoma';
+    line-height: 25px;
+    font-weight: 400;
+
+    span {
+      font-weight: bold;
+    }
+
+
+
+  }
+
+  .hTitle {
+
+  }
+
+  .pClassic {
+
+  }
+
+  .partnersList {
+    padding-top: 20px;
+
+    h2{
+
+    }
+
+    .menu-item {
+
+      h4{
+
+        line-height: 25px;
+
+      }
+    }
+
+
+  }
+
+
+}
